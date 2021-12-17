@@ -11,6 +11,8 @@ function deploy () {
     cd $SERVICE
     if [ -f package.json ]; then
       npm install
+      npm outdated
+      npm update
     fi
     serverless deploy
     cd ..

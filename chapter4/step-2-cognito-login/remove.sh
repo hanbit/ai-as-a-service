@@ -10,6 +10,7 @@ function remove () {
     echo ----------[ removing $SERVICE ]----------
     cd $SERVICE
     serverless remove
+    rm -rf node_module/
     cd ..
   done
 }
