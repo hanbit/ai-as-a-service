@@ -3,7 +3,7 @@ frameworkVersion: ">=1.30.0"
 custom:
   region: ${env:AWS_DEFAULT_REGION, 'eu-west-1'}
   accountid: ${env:AWS_ACCOUNT_ID}
-	stage: ${self:provider.stage}
+  stage: ${self:provider.stage}
 provider:
   name: aws
   runtime: nodejs14.x
