@@ -15,6 +15,7 @@ custom:
     stage: ${self:provider.stage}
     basePath: api
     certificateName: '*.${self:custom.domain}'
+    certificateArn: ${env:CHAPTER4_DOMAIN_ARN}
     createRoute53Record: true
     endpointType: regional
   serverless-offline:
