@@ -27,3 +27,5 @@ aws s3 rm s3://${CHAPTER4_BUCKET} --recursive
 aws s3 rm s3://${CHAPTER4_DATA_BUCKET} --recursive
 remove
 
+aws dynamodb delete-table --table-name chapter4-todo-dev
+
