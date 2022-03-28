@@ -1,10 +1,10 @@
 # 쉽게 배우는 AWS 인공지능 서비스
+한빛미디어에서 번역 출간된 \[쉽게 배우는 AWS 인공지능 서비스]의 예시 코드를 저장한 레포지터리입니다.
 
 ![쉽게 배우는 AWS 인공지능 서비스 표지](./ai-as-a-service-cover.png)
 
-해당 레포지터리는 한빛미디어에서 번역 출간된 \[쉽게 배우는 AWS 인공지능 서비스]의 예시 코드를 저장하고 있습니다.
-
 저자 : [피터 엘거(Peter Elger)](https://twitter.com/pelger), [오언 셔너히(Eoin Shanaghy)](https://twitter.com/eoins)
+원서의 저자가 제공하는 레포지터리는 [여기](https://github.com/fourTheorem/ai-as-a-service)에서 확인하실 수 있습니다.
 
 각 장별 예시 코드는 아래 링크에서 확인할 수 있습니다.
 
