@@ -1,7 +1,7 @@
-# 쉽게 배우는 AWS 인공지능 서비스
-한빛미디어에서 번역 출간된 \[쉽게 배우는 AWS 인공지능 서비스]의 예시 코드를 저장한 레포지터리입니다.
+# 쉽게 배우는 AWS AI 서비스
+한빛미디어에서 번역 출간된 \[쉽게 배우는 AWS AI 서비스]의 예시 코드를 저장한 레포지터리입니다.
 
-![쉽게 배우는 AWS 인공지능 서비스 표지](./ai-as-a-service-cover.png)
+![쉽게 배우는 AWS AI 서비스 표지](./ai-as-a-service-cover.png)
 
 저자 : [피터 엘거(Peter Elger)](https://twitter.com/pelger), [오언 셔너히(Eoin Shanaghy)](https://twitter.com/eoins)
 
